@@ -1,0 +1,25 @@
+{
+  "name": "@fluct-io/hardhat-contract-mutator",
+  "version": "1.0.0-alpha",
+  "description": "An utility for mutation testing of Solidity contracts in Hardhat environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluct-io/hardhat-contract-mutator.git"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "smart-contracts",
+    "tests"
+  ],
+  "author": "Vsevolod Filinov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fluct-io/hardhat-contract-mutator/issues"
+  },
+  "homepage": "https://github.com/fluct-io/hardhat-contract-mutator#readme"
+}
